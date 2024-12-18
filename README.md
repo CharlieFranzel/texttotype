@@ -33,16 +33,6 @@ Welcome to **Text To Type**, a simple Python application designed to take inputt
 
 ---
 
-## 🎨 Example Usage
-```bash
-Enter the text to type: Hello, world!
-Enter the typing speed (characters per second): 5
-Typing...
-Done!
-```
-
----
-
 ## 🛠️ Built With
 - **Python**: The only language I know (so far).
 
