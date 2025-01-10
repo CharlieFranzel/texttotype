@@ -62,7 +62,7 @@ def move_slider(event):
 window = tk.Tk()
 window.resizable(False, False)
 window.title("Text to Type")
-window.geometry("450x550")
+window.geometry("550x700")
 window.configure(bg="#1e1e1e")  # Dark mode background
 
 # Set Window and Taskbar Icon
